@@ -61,11 +61,11 @@
 				EE435EE426D15E55007E54F8 /* AppDelegate.swift */,
 				EE435EE626D15E55007E54F8 /* SceneDelegate.swift */,
 				EE435EE826D15E55007E54F8 /* ViewController.swift */,
-				EE435EEA26D15E55007E54F8 /* Main.storyboard */,
 				EE435EF826D15F20007E54F8 /* CollectionViewCell.swift */,
 				EE435EED26D15E57007E54F8 /* Assets.xcassets */,
 				EE435EEF26D15E57007E54F8 /* LaunchScreen.storyboard */,
 				EE435EF226D15E57007E54F8 /* Info.plist */,
+				EE435EEA26D15E55007E54F8 /* Main.storyboard */,
 			);
 			path = UICoollectionViewFlowLayout;
 			sourceTree = "<group>";
